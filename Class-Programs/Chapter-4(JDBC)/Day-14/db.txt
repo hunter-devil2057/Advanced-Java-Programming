@@ -1,0 +1,5 @@
+db: ajp_ncit
+tbl: student
+id(int)
+name(varchar)
+email(varchar)
