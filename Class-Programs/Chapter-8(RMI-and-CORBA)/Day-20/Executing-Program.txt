@@ -1,0 +1,7 @@
+from filepath, open cmd 
+then run, javac *.java 
+then, start rmiregistry
+then, new terminal pops up
+after that, in the previous terminal just enter java ServerRMI
+again, open new cmd from the filepath and enter java ClientRMI
+Finally, the result appears by adding two numbers
